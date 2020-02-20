@@ -1,0 +1,20 @@
+Teste de viagens: 
+Verificar se a viagem é de no maximo 8 Km 
+se for maior que 8 Km Informar "viagem muito longa"
+Verificar se as viagens estão sendo realizadas com exito
+
+Teste de contas de usuário e de motoristas:
+Verificar se a conta de usuário está solicitando as viagens e não está recebendo viagens
+Verificar se a conta de motorista está recebendo as viagens dos usuários e não está fazendo solicitação de viagens
+
+Teste de pagamento:
+Verificar se a forma de pagamento do usuário está funcionando corretamente
+Verificar se a forma de pagamento do motorista está funcionando corretamente
+
+Teste de feedback:
+Verificar se o feedback está sendo recebido com exito
+verificar quando o usuário não realizar o feedback
+
+Teste de e-mail:
+verificar se o e-mail de emergencia está funcionando corretamente
+

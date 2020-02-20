@@ -1,0 +1,1 @@
+Verificar o funcionamento do programa em pratíca e realizar um checklist da fase de teste do programa.
