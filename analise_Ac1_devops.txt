@@ -1,0 +1,9 @@
+﻿O programa deve realizar viagens do ponto x ao ponto y com o valor no máximo de 10 dólares
+O programa deve conter conta de usuário
+O programa deve conter conta de motorista
+O programa deve manter os dados do motorista seguro
+O programa deve manter os dados do usuário seguro
+O programa deve conter forma de pagamento
+O programa de conter uma forma de feedback tanto do motorista como do usuários
+O programa deve conter uma forma de contato em caso de emergência.
+

@@ -1,0 +1,1 @@
+Será codificado para dispositivo mobile android em Kotlin e futuramtente outras plataformas

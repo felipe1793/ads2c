@@ -1,0 +1,18 @@
+﻿A forma que o programa vai realizar as viagens de ponto x a y:
+Será utilizado o google maps para realizar as viagens de ponto x a y
+
+A forma que a conta do usuário e do motorista serão criadas: 
+Será via play console os usuários terão acesso para realizar viagens e os motoristas terão acesso para receber viagens. Caso o motorista tenha interesse em fazer viagens criar uma conta de usuário
+
+A forma que as contas dos motoristas e dos usuários serão asseguradas:
+Via autenticação ID e senha em caso de perda de id ou senha será realizado o procedimento de recuperação via numero de telefone
+
+A forma que será realizada o pagamento:
+Será utilizado o Paypal
+
+A forma que o feedback será armazenado:
+Vai ser armazenado em um banco de dados
+
+A forma que o contato de emergência será feita:
+Via e-mail
+
